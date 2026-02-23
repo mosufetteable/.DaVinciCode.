@@ -1,0 +1,14 @@
+C:\Users\gongh\OneDrive\바탕 화면\Da Vinci Code\bin\Debug\net9.0\Da Vinci Code.exe
+C:\Users\gongh\OneDrive\바탕 화면\Da Vinci Code\bin\Debug\net9.0\Da Vinci Code.deps.json
+C:\Users\gongh\OneDrive\바탕 화면\Da Vinci Code\bin\Debug\net9.0\Da Vinci Code.runtimeconfig.json
+C:\Users\gongh\OneDrive\바탕 화면\Da Vinci Code\bin\Debug\net9.0\Da Vinci Code.dll
+C:\Users\gongh\OneDrive\바탕 화면\Da Vinci Code\bin\Debug\net9.0\Da Vinci Code.pdb
+C:\Users\gongh\OneDrive\바탕 화면\Da Vinci Code\obj\Debug\net9.0\Da Vinci Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gongh\OneDrive\바탕 화면\Da Vinci Code\obj\Debug\net9.0\Da Vinci Code.AssemblyInfoInputs.cache
+C:\Users\gongh\OneDrive\바탕 화면\Da Vinci Code\obj\Debug\net9.0\Da Vinci Code.AssemblyInfo.cs
+C:\Users\gongh\OneDrive\바탕 화면\Da Vinci Code\obj\Debug\net9.0\Da Vinci Code.csproj.CoreCompileInputs.cache
+C:\Users\gongh\OneDrive\바탕 화면\Da Vinci Code\obj\Debug\net9.0\Da Vinci Code.dll
+C:\Users\gongh\OneDrive\바탕 화면\Da Vinci Code\obj\Debug\net9.0\refint\Da Vinci Code.dll
+C:\Users\gongh\OneDrive\바탕 화면\Da Vinci Code\obj\Debug\net9.0\Da Vinci Code.pdb
+C:\Users\gongh\OneDrive\바탕 화면\Da Vinci Code\obj\Debug\net9.0\Da Vinci Code.genruntimeconfig.cache
+C:\Users\gongh\OneDrive\바탕 화면\Da Vinci Code\obj\Debug\net9.0\ref\Da Vinci Code.dll
