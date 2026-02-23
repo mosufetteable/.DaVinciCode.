@@ -12,3 +12,4 @@ C:\Users\gongh\OneDrive\바탕 화면\Da Vinci Code\obj\Debug\net9.0\refint\Da V
 C:\Users\gongh\OneDrive\바탕 화면\Da Vinci Code\obj\Debug\net9.0\Da Vinci Code.pdb
 C:\Users\gongh\OneDrive\바탕 화면\Da Vinci Code\obj\Debug\net9.0\Da Vinci Code.genruntimeconfig.cache
 C:\Users\gongh\OneDrive\바탕 화면\Da Vinci Code\obj\Debug\net9.0\ref\Da Vinci Code.dll
+C:\Users\gongh\OneDrive\바탕 화면\Da Vinci Code\obj\Debug\net9.0\Da Vinci Code.sourcelink.json

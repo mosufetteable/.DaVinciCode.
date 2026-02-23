@@ -9,10 +9,13 @@ namespace met
     {
         public static void Waker() //공용 패부터 먼저 만들어두고
         {
-            for (int i = -12; i <= 12; i++)
+            for(int a=0; a < main.app.bw; a++)
             {
-                if (i == 0) continue; //0은 건너뛰기
-                main.app.Count.Add(i);
+                main.app.Count.Add(new List<int>());
+                for(int b=0; b < main.app.ea; b++)
+                {
+                    main.app.Count[a].Add(b+1); //1~12가 들어가야지
+                }
             }
         }
         public static void Aligner() //패를 각각 배분해놓고 정렬하는 함수
