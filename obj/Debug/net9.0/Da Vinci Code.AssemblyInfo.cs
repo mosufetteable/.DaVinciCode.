@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Da Vinci Code")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4358d6f2632fd1914dd91ee52ac5a48ae005064")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5bfdb4eb7a956d005903b7307e004ad9fdea9f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Da Vinci Code")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Da Vinci Code")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

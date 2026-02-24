@@ -9,7 +9,7 @@ namespace dire
     {
         public static void Starfighter() //메인 함수
         {
-            met.hods.Waker();
+            met.hods.Preparer();
         }
     }
 }
