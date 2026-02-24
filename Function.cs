@@ -21,16 +21,17 @@ namespace met
         {
             for (main.app.a = phae.Count - 1; main.app.a > 0; main.app.a--)
             {
-                main.app.b = main.app.R.Next(main.app.b + 1);
+                main.app.b = main.app.R.Next(main.app.a + 1);
                 main.app.Temp = phae[main.app.a];
                 phae[main.app.a] = phae[main.app.b];
                 phae[main.app.b] = main.app.Temp;
             }
-            main.app.ea = 1;
             for(int i=0;i<4;i++)
             {
-                main.app.Avril.Add(phae[main.app.ea++]);
-                main.app.Trigger.Add(phae[main.app.ea++]);
+                main.app.Avril.Add(phae[0]);
+                phae.RemoveAt(0);
+                main.app.Trigger.Add(phae[0]);
+                phae.RemoveAt(0);
             }
         }
     }

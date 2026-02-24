@@ -10,7 +10,7 @@ namespace dire
         public static void Starfighter() //메인 함수
         {
             Preparer();
-            while(true)
+            while(main.app.Agg != true&&main.app.Tgg != true)
             {
                 
             }
