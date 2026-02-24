@@ -9,7 +9,15 @@ namespace dire
     {
         public static void Starfighter() //메인 함수
         {
-            met.hods.Preparer();
+            Preparer();
         }
+
+        public static void Preparer()
+        {
+            met.hods.waker();
+            met.hods.shuffle(main.app.Count);
+        }
+
+        
     }
 }
