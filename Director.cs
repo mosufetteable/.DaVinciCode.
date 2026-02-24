@@ -10,19 +10,19 @@ namespace dire
         public static void Starfighter() //메인 함수
         {
             Preparer();
-            while(main.app.Agg != true&&main.app.Tgg != true)
+            while (main.app.Agg != true && main.app.Tgg != true)
             {
-                
+
             }
         }
 
-        public static void Preparer()
+        public static void Preparer() //준비 함수
         {
             met.hods.waker();
             met.hods.shuffle(main.app.Count);
         }
 
-        public static void WinnerDinner()
+        public static void WinnerDinner() //김칫국 함수
         {
             if (main.app.Agg == true)
             {
@@ -37,5 +37,13 @@ namespace dire
                 Console.WriteLine("::::::::::::::::::::::::::::::::");
             }
         }
+
+    }
+
+    public class Phae //판정을 위한 클래스
+    {
+        public int Num; //패 숫자
+        public bool Isblack; //패 색깔
+        public bool IsOpen; //패가 들켰나 안 들켰나
     }
 }
