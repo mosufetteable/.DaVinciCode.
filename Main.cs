@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Security.Cryptography;
 using met;
 using dire;
 using comp;
@@ -8,7 +9,6 @@ namespace main
     class app  //-12,12 == 조커(각각 흰/검) / -11~-1 == 검은색카드 / 1~11 == 흰색 카드
     {
         public static int ea = 12; //갯수
-        public static Random R = new Random();
         public static int a;
         public static int b;
         public static int Temp;
