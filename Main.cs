@@ -9,8 +9,9 @@ namespace main
     class app  //-12,12 == 조커(각각 흰/검) / -11~-1 == 검은색카드 / 1~11 == 흰색 카드
     {
         public static int ea = 12; //갯수
-        public static int a;
-        public static int b;
+        public static int a; //다용도 변수
+        public static int b; //다용도 변수
+        public static bool Turn; //true면 플레이어 먼저, false면 컴퓨터 먼저
         public static int Temp;
         public static List<int> Avril = new List<int>(); //플레이어 패
         public static List<int> Trigger = new List<int>(); //컴퓨터 패 
